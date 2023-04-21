@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 
 body {
-background-image: url(../img/fondo.svg);
+background-image: url(./img/fondo.svg);
     background-repeat: no-repeat;
     background-size: cover; /* Posicion imagen*/
     background-attachment: fixed; 
