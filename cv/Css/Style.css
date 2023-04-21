@@ -140,11 +140,12 @@ background-image: url(../Img/fondo.svg);
     align-items: center;
     padding: 6px;
     background-color: teal;
-    height: 70px;
+    height: 65px;
     width: 100%;
     border-radius: 10px 10px 0px 0px;
     bottom:0; 
     left:0;
+    position: absolute;
 }
 .foter h6 {
     color: white;
@@ -166,42 +167,6 @@ background-image: url(../Img/fondo.svg);
     color: white;
 }
 .foter i:hover {
-    width: 30px;
-    height: 30px;
-    color: black;
-}
-.foter-extra {
-    text-align: center;
-    align-items: center;
-    background-color: teal;
-    height: 70px;
-    width: 100%;
-    border-radius: 10px 10px 0px 0px;
-    position:absolute; 
-    bottom:0; 
-    left:0; 
-}
-.foter-extra h6 {
-    margin-top: 10px;
-    color: white;
-}
-.foter-extra h6 i{
-    padding-left: 8px;
-    color: red;
-}
-.foter-extra h6 i:hover{
-    font-size: 16px;
-    color: white;
-}
-.foter-extra a{
-    text-decoration: none;
-}
-.foter-extra a i {
-    padding-left: 10px;
-    font-size: 18px;
-    color: white;
-}
-.foter-extra i:hover {
     width: 30px;
     height: 30px;
     color: black;
