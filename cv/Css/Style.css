@@ -1,0 +1,208 @@
+/* Place your CSS styles in this file */
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+body {
+background-image: url(../img/fondo.svg);
+    background-repeat: no-repeat;
+    background-size: cover; /* Posicion imagen*/
+    background-attachment: fixed; 
+    background-color: cyan;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+.navbar {  /*Inicio Menu*/
+    background-color: teal;
+    margin-bottom: 10px;
+    border-radius: 0px 0px 10px 10px;
+}
+.navbar div a {
+    color: aliceblue;
+    padding: 8px;
+    font-size: 18px;
+}
+.navbar div a i {
+    font-size: 30px;
+}
+.nav a i {
+    font-size: 250px;
+}
+.navbar-brand:hover { /* Fin Menu */
+    color: black;
+}
+#fperfil {
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+    text-align: center;
+    width: 40%;
+}
+.name {
+    text-align: center;
+    color: aqua;
+}
+.iconos p i {
+    color: cadetblue;
+    font-size: 25px;
+}
+.iconos p i:hover {
+    color: white;
+    text-shadow: 3px 3px 6px black;
+}
+.scrollspyHeading1 { /* Menu Scroll 2*/
+    height: 100px;
+}
+.scrollspyHeading2 { /* Menu Scroll 2*/
+    margin-top: 1000px;
+    height: 500px;
+}
+.titulo {               /*Estilo Titulos*/
+    margin-top: 20px;
+    color: cyan;
+    text-align: center;
+    font-size: 19px;
+    margin-bottom: 15px;
+}
+.perfil {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.contenido {           /*Estilo Contenido de texto*/
+    padding: 2px;
+    text-align: justify;
+}
+#card {                  /*Desplegables*/
+    background-color: cyan;
+}
+.year {
+    text-align: center;
+    margin: 0;
+}
+.accordion { /*Desplegables*/
+    padding: 5px;
+}
+.accordion-button:hover { /*Desplegables*/
+    background-color: white;
+}
+.accordion-collapse { /*Desplegables*/
+    background-color: black;
+}
+/* Inicio Slider*/
+.carousel-item h5 {
+    color: aqua;
+}
+#imagen1 {
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+}
+.carousel {
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.textcarousel {
+    color: black;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 19px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 5px cyan;
+}
+.carousel-indicators {
+    margin-bottom: -3px;
+    margin-top: 20px;
+}
+.form {
+    text-align: center;
+}
+.form-label {
+    margin-top: 20px;
+    text-align: center;
+}
+.form-control {
+    margin-bottom: 20px;
+    margin-top: 1px;
+    text-align: center;
+}
+/* Fin Slider*/
+.btn-success {
+    display: inline-block;
+    margin-right: 10px;
+}
+/*Inicio Footer*/
+.contacto {
+    padding: 20px;
+    border-top: solid 1px;
+}
+.foter {
+    text-align: center;
+    align-items: center;
+    padding: 6px;
+    background-color: teal;
+    height: 70px;
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+    bottom:0; 
+    left:0;
+}
+.foter h6 {
+    color: white;
+}
+.foter h6 i{
+    padding-left: 8px;
+    color: red;
+}
+.foter h6 i:hover{
+    font-size: 16px;
+    color: white;
+}
+.foter a{
+    text-decoration: none;
+}
+.foter a i {
+    padding-left: 10px;
+    font-size: 18px;
+    color: white;
+}
+.foter i:hover {
+    width: 30px;
+    height: 30px;
+    color: black;
+}
+.foter-extra {
+    text-align: center;
+    align-items: center;
+    background-color: teal;
+    height: 70px;
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+    position:absolute; 
+    bottom:0; 
+    left:0; 
+}
+.foter-extra h6 {
+    margin-top: 10px;
+    color: white;
+}
+.foter-extra h6 i{
+    padding-left: 8px;
+    color: red;
+}
+.foter-extra h6 i:hover{
+    font-size: 16px;
+    color: white;
+}
+.foter-extra a{
+    text-decoration: none;
+}
+.foter-extra a i {
+    padding-left: 10px;
+    font-size: 18px;
+    color: white;
+}
+.foter-extra i:hover {
+    width: 30px;
+    height: 30px;
+    color: black;
+}
