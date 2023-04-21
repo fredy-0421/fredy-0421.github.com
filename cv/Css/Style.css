@@ -99,6 +99,7 @@ background-image: url(../Img/fondo.svg);
 }
 .carousel {
     margin-top: 80px;
+    margin-bottom: 50px;
 }
 .textcarousel {
     color: black;
@@ -121,9 +122,7 @@ background-image: url(../Img/fondo.svg);
     height: 65px;
     width: 100%;
     border-radius: 10px 10px 0px 0px;
-    bottom:0; 
-    left:0;
-    position: absolute;
+    margin-top: 20px;
 }
 .foter h6 {
     color: white;
