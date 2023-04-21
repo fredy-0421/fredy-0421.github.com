@@ -42,6 +42,9 @@ background-image: url(../Img/fondo.svg);
     text-align: center;
     color: aqua;
 }
+.iconos {
+    margin-bottom: -60px;
+}
 .iconos p i {
     color: cadetblue;
     font-size: 25px;
@@ -99,7 +102,6 @@ background-image: url(../Img/fondo.svg);
 }
 .carousel {
     margin-top: 80px;
-    margin-bottom: 30px;
 }
 .textcarousel {
     color: black;
@@ -113,28 +115,7 @@ background-image: url(../Img/fondo.svg);
     margin-bottom: -3px;
     margin-top: 20px;
 }
-.form {
-    text-align: center;
-}
-.form-label {
-    margin-top: 20px;
-    text-align: center;
-}
-.form-control {
-    margin-bottom: 20px;
-    margin-top: 1px;
-    text-align: center;
-}
-/* Fin Slider*/
-.btn-success {
-    display: inline-block;
-    margin-right: 10px;
-}
 /*Inicio Footer*/
-.contacto {
-    padding: 20px;
-    border-top: solid 1px;
-}
 .foter {
     text-align: center;
     align-items: center;
