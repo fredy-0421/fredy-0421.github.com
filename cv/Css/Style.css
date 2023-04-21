@@ -123,7 +123,7 @@ background-image: url(../Img/fondo.svg);
     border-radius: 10px 10px 0px 0px;
     bottom:0; 
     left:0;
-    position: relative;
+    position: absolute;
 }
 .foter h6 {
     color: white;
