@@ -43,7 +43,7 @@ background-image: url(../Img/fondo.svg);
     color: aqua;
 }
 .iconos {
-    margin-bottom: -60px;
+    
 }
 .iconos p i {
     color: cadetblue;
@@ -126,7 +126,6 @@ background-image: url(../Img/fondo.svg);
     border-radius: 10px 10px 0px 0px;
     bottom:0; 
     left:0;
-    position: absolute;
 }
 .foter h6 {
     color: white;
