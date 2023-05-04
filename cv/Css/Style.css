@@ -98,7 +98,7 @@ background-image: url(../Img/fondo.svg);
     margin-top: 10px;
 }
 .carousel {
-    margin-top: 80px;
+    margin-top: 130px;
     margin-bottom: 50px;
 }
 .textcarousel {
@@ -110,8 +110,8 @@ background-image: url(../Img/fondo.svg);
     text-shadow: 1px 1px 5px cyan;
 }
 .carousel-indicators {
-    margin-bottom: -3px;
-    margin-top: 10px;
+    margin-bottom: -6px;
+    margin-top: 80px;
 }
 /*Inicio Footer*/
 .foter {
@@ -123,7 +123,6 @@ background-image: url(../Img/fondo.svg);
     height: 65px;
     width: 100%;
     border-radius: 10px 10px 0px 0px;
-    margin-top: 10px;
     bottom: 0;
 }
 .foter h6 {
